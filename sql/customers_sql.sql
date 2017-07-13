@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS `mydb`.`customers` (
+CREATE TABLE IF NOT EXISTS `shopping-assistant-db`.`customers` (
   `cust_id` INT NOT NULL AUTO_INCREMENT,
   `name` VARCHAR(45) NOT NULL,
   `email` VARCHAR(45) NOT NULL,
